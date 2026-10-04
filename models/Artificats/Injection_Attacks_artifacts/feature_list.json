@@ -1,0 +1,22 @@
+[
+    "flow_duration",
+    "rate",
+    "fin_flag_number",
+    "rst_flag_number",
+    "psh_flag_number",
+    "ack_flag_number",
+    "ack_count",
+    "syn_count",
+    "https",
+    "dns",
+    "ssh",
+    "irc",
+    "udp",
+    "dhcp",
+    "llc",
+    "max",
+    "std",
+    "iat",
+    "number",
+    "variance"
+]

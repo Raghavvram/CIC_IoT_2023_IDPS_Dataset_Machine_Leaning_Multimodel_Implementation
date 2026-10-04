@@ -1,0 +1,20 @@
+[
+    "flow_duration",
+    "header_length",
+    "duration",
+    "rate",
+    "srate",
+    "syn_flag_number",
+    "ack_flag_number",
+    "cwr_flag_number",
+    "ack_count",
+    "smtp",
+    "dhcp",
+    "icmp",
+    "llc",
+    "min",
+    "tot_size",
+    "iat",
+    "variance",
+    "weight"
+]

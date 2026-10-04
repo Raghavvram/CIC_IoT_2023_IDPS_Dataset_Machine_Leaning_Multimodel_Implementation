@@ -1,0 +1,19 @@
+[
+    "flow_duration",
+    "duration",
+    "fin_flag_number",
+    "rst_flag_number",
+    "urg_count",
+    "dns",
+    "ssh",
+    "irc",
+    "udp",
+    "dhcp",
+    "llc",
+    "max",
+    "std",
+    "iat",
+    "number",
+    "weight",
+    "grouplabel"
+]

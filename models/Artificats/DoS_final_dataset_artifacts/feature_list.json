@@ -1,0 +1,18 @@
+[
+    "drate",
+    "psh_flag_number",
+    "syn_count",
+    "http",
+    "dns",
+    "telnet",
+    "tcp",
+    "udp",
+    "arp",
+    "max",
+    "std",
+    "tot_size",
+    "iat",
+    "variance",
+    "weight",
+    "magnitude"
+]

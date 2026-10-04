@@ -1,0 +1,21 @@
+[
+    "header_length",
+    "duration",
+    "rate",
+    "drate",
+    "syn_flag_number",
+    "rst_flag_number",
+    "ece_flag_number",
+    "ack_count",
+    "syn_count",
+    "urg_count",
+    "http",
+    "https",
+    "tcp",
+    "udp",
+    "llc",
+    "max",
+    "iat",
+    "number",
+    "weight"
+]

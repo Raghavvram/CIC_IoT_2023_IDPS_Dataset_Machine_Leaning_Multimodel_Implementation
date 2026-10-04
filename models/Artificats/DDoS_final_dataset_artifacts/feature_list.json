@@ -1,0 +1,18 @@
+[
+    "fin_flag_number",
+    "syn_flag_number",
+    "psh_flag_number",
+    "ack_flag_number",
+    "ece_flag_number",
+    "ack_count",
+    "fin_count",
+    "dns",
+    "telnet",
+    "irc",
+    "udp",
+    "arp",
+    "min",
+    "iat",
+    "number",
+    "weight"
+]

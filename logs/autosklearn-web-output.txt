@@ -1,0 +1,42 @@
+Splitting data into training and testing sets...
+Training data shape: (24000, 45)
+Testing data shape: (6000, 45)
+
+Starting auto-sklearn optimization...
+The search will run for a total of 300 seconds.
+
+Evaluating the best pipeline found by auto-sklearn...
+
+Leaderboard of models found:
+          rank  ensemble_weight                 type      cost   duration
+model_id                                                                 
+109          1             0.02    gradient_boosting  0.158081   7.869110
+54           2             0.02    gradient_boosting  0.165530  11.541739
+89           3             0.02    gradient_boosting  0.204167   3.922390
+103          4             0.02    gradient_boosting  0.235859  11.487408
+91           5             0.02  k_nearest_neighbors  0.295581   1.031234
+53           6             0.02    gradient_boosting  0.297475  23.638481
+35           7             0.36          extra_trees  0.416035   4.453799
+106          8             0.16          extra_trees  0.416035   3.237723
+108          9             0.06                  lda  0.429924   1.890982
+43          10             0.08        decision_tree  0.743056   1.427189
+95          11             0.06        decision_tree  0.743687   2.383509
+36          12             0.02        decision_tree  0.760101   7.986509
+104         13             0.02         bernoulli_nb  0.763384   1.440172
+110         14             0.12        liblinear_svc  0.770328   4.731079
+
+Final auto-sklearn Model Test Accuracy: 0.8562
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.82      0.88      0.85       998
+           1       0.88      0.87      0.87      1011
+           2       0.80      0.75      0.77       981
+           3       0.83      0.90      0.86       987
+           4       0.92      0.95      0.94       989
+           5       0.88      0.80      0.84      1034
+
+    accuracy                           0.86      6000
+   macro avg       0.86      0.86      0.86      6000
+weighted avg       0.86      0.86      0.86      6000
